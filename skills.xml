@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+	<API>API testing</API>
+	<logs>Removing and reading logs</logs>
+	<Dev>Working with Dev Tools of web browsers</Dev>
+	<mobi>Mobile testing</mobi>
+	<sniffing>Sniffing traffic through Charles</sniffing>
+	<SQL>Create, Delete, Drop, Insert Into, Select, From, Where, Join</SQL>
+</skills>
+
+
