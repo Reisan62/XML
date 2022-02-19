@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+ <bug_report>
+  <Summary>Authorization on the site does not occur</Summary>
+  <Project>www.testshop.com</Project>
+  <Component>Login window</Component>
+  <Version>1.05</Version>
+  <Severity>S1</Severity>
+  <Priority>P1</Priority>
+  <Status>Open</Status>
+  <Autor>Aleksandr B.</Autor>
+  <Assigned_to>Ivan P.</Assigned_to>
+  <Environment>
+    <Browser> Firefox v. 97.0.1 (64 bit)</Browser>
+    <OS>Windows 10 Pro v. 19042.1526</OS>
+   </Environment>
+  <STR>
+    <step_1>Open website www.testshop.com</step_1>
+    <step_2>Go to login window</step_2>
+    <step_3>Enter your details and click 'login button'</step_3>
+  </STR>
+  <Result>User is logged in</Result>
+  <Expected_Result>Nothing has happened</Expected_Result>
+ </bug_report>
